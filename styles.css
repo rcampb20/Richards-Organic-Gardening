@@ -131,7 +131,7 @@ nav>ul>li a {
     text-align: left;
     Width: 1000px;
     height: 600px;
-    background: url(images1.png);
+    background: url(images/1.png);
     margin: 100px auto;
     animation: slide 20s infinite;
 }
